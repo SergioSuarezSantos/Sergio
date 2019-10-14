@@ -7,7 +7,7 @@ create table Usuario (
 );
 
 create table curso (
-	Codigo Curso Varchar(5),
+	Codigo Varchar(5),
 	Nombre varchar(50),
 	Contraseña varchar(50),
 );
