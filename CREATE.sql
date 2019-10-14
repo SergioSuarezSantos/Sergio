@@ -3,5 +3,11 @@ create table Usuario (
 	Nombre varchar(50),
 	Apellidos varchar(50),
 	Edad varchar(50),
-	Dirección varchar(50)
+	Direcciï¿½n varchar(50)
+);
+
+create table curso (
+	Codigo Curso Varchar(5),
+	Nombre varchar(50),
+	ContraseÃ±a varchar(50),
 );
