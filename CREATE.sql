@@ -16,3 +16,7 @@ create table Edificio (
 	Nombre varchar(50),
 	Contraseña varchar(50),
 );
+create table aula (
+	nombre varchar(5),
+	letra varchar(50),
+);
