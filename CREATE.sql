@@ -3,7 +3,7 @@ create table Usuario (
 	Nombre varchar(50),
 	Apellidos varchar(50),
 	Edad varchar(50),
-	Direcci�n varchar(50)
+	Direccion varchar(50)
 );
 
 create table curso (
