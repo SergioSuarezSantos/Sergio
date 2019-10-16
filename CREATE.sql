@@ -11,3 +11,8 @@ create table curso (
 	Nombre varchar(50),
 	Contraseña varchar(50),
 );
+CREATE TABLE AULA ()
+	Codigo Varchar(5),
+	NOMBRE Varchar (50),
+	CONTRASEÑA Varchar (50)
+	);
